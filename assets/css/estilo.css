@@ -1,4 +1,6 @@
-.hero .d-flex .align-items-center{
-    background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fmetro.co.uk%2F2020%2F02%2F19%2Fumbrella-academy-asks-one-major-question-netflix-teases-season-2-return-12268849%2F&psig=AOvVaw0dz0bltifzOPHHE8reHN1M&ust=1700308027889000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCPjO95L7yoIDFQAAAAAdAAAAABAD);
+.hero{
+    background-image: url('https://cdn.ome.lt/RsGzmNXnResGqXtrUlaHRN7NEaA=/1200x630/smart/extras/conteudos/the-umbrella-academy-season-3-everything-we-know-so-far.jpg'); 
+    background-size: cover;
+    background-position: center;
     background-repeat: no-repeat;
 }
